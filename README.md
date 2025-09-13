@@ -3,7 +3,7 @@
 This project is a PDF Chatbot with **Retrieval-Augmented Generation (RAG)**. It provides a user-friendly interface built with Streamlit that allows users to upload PDF documents and ask questions about their content. The chatbot leverages a RAG framework to ensure responses are accurate and grounded in the provided document's text.
 ## Features
 - **PDF Document Querying**: Upload a PDF and interact with the content through a conversational interface.
-- **Efficient Retrieval**: Uses all-MiniLM-L6-v2 embeddings and a **FAISS** index to quickly find the most relevant text chunks within the PDF.
+- **Efficient Retrieval**: Uses **all-MiniLM-L6-v2** embeddings and a **FAISS** index to quickly find the most relevant text chunks within the PDF.
 - **Powerful Language Model**: Integrates with the **Mistral 7B** large language model via the **OpenRouter API** to generate contextually relevant and accurate responses based on the retrieved information.
 - **User-Friendly Interface**: The application is built with **Streamlit**, which turns data scripts into shareable web apps with an easy-to-use interface.
 ## Prerequisites

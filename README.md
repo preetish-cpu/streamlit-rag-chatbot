@@ -46,4 +46,4 @@ This project is a PDF Chatbot with **Retrieval-Augmented Generation (RAG)**. It 
 2. The application will open in your web browser.
 3. Upload a PDF file.
 4. Once the embeddings are created, a text box will appear for you to ask questions about the document.
----
+
